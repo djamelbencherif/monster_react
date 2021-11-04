@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/djamelbencherif/monster_react/static/css/main.cd9d02fe.chunk.css",
-    "main.js": "/djamelbencherif/monster_react/static/js/main.72c34461.chunk.js",
-    "main.js.map": "/djamelbencherif/monster_react/static/js/main.72c34461.chunk.js.map",
-    "runtime-main.js": "/djamelbencherif/monster_react/static/js/runtime-main.3b7109e1.js",
-    "runtime-main.js.map": "/djamelbencherif/monster_react/static/js/runtime-main.3b7109e1.js.map",
-    "static/js/2.89ee3041.chunk.js": "/djamelbencherif/monster_react/static/js/2.89ee3041.chunk.js",
-    "static/js/2.89ee3041.chunk.js.map": "/djamelbencherif/monster_react/static/js/2.89ee3041.chunk.js.map",
-    "static/js/3.e6f8b2cb.chunk.js": "/djamelbencherif/monster_react/static/js/3.e6f8b2cb.chunk.js",
-    "static/js/3.e6f8b2cb.chunk.js.map": "/djamelbencherif/monster_react/static/js/3.e6f8b2cb.chunk.js.map",
-    "index.html": "/djamelbencherif/monster_react/index.html",
-    "static/css/main.cd9d02fe.chunk.css.map": "/djamelbencherif/monster_react/static/css/main.cd9d02fe.chunk.css.map",
-    "static/js/2.89ee3041.chunk.js.LICENSE.txt": "/djamelbencherif/monster_react/static/js/2.89ee3041.chunk.js.LICENSE.txt"
+    "main.css": "/monster_react/static/css/main.cd9d02fe.chunk.css",
+    "main.js": "/monster_react/static/js/main.72c34461.chunk.js",
+    "main.js.map": "/monster_react/static/js/main.72c34461.chunk.js.map",
+    "runtime-main.js": "/monster_react/static/js/runtime-main.d2f9aeee.js",
+    "runtime-main.js.map": "/monster_react/static/js/runtime-main.d2f9aeee.js.map",
+    "static/js/2.89ee3041.chunk.js": "/monster_react/static/js/2.89ee3041.chunk.js",
+    "static/js/2.89ee3041.chunk.js.map": "/monster_react/static/js/2.89ee3041.chunk.js.map",
+    "static/js/3.e6f8b2cb.chunk.js": "/monster_react/static/js/3.e6f8b2cb.chunk.js",
+    "static/js/3.e6f8b2cb.chunk.js.map": "/monster_react/static/js/3.e6f8b2cb.chunk.js.map",
+    "index.html": "/monster_react/index.html",
+    "static/css/main.cd9d02fe.chunk.css.map": "/monster_react/static/css/main.cd9d02fe.chunk.css.map",
+    "static/js/2.89ee3041.chunk.js.LICENSE.txt": "/monster_react/static/js/2.89ee3041.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3b7109e1.js",
+    "static/js/runtime-main.d2f9aeee.js",
     "static/js/2.89ee3041.chunk.js",
     "static/css/main.cd9d02fe.chunk.css",
     "static/js/main.72c34461.chunk.js"
